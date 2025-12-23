@@ -1,0 +1,12 @@
+th {
+    color : rgb(228, 41, 47);
+    background-color: rgb(226, 249, 113);
+}
+button {
+    color: aliceblue;
+    background-color: #1b73df;
+    border: solid;
+    width : 100%;
+    text-align: center;
+
+}

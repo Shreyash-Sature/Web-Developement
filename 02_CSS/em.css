@@ -1,0 +1,12 @@
+
+
+#outer {
+    height: 400px;
+    width: 400px;
+    border: 2px solid background-color;
+     font-size: 20px;
+}
+    #inner{
+    height: 100px; width: 100px;
+    background-color: font-size;
+}
